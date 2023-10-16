@@ -11,6 +11,7 @@
 		67C2A8192ADB3CBB00761AB3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C2A8182ADB3CBB00761AB3 /* ContentView.swift */; };
 		67C2A81B2ADB3CCB00761AB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67C2A81A2ADB3CCB00761AB3 /* Assets.xcassets */; };
 		67C2A81E2ADB3CCB00761AB3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67C2A81D2ADB3CCB00761AB3 /* Preview Assets.xcassets */; };
+		67C2A82B2ADC897D00761AB3 /* DiagonalStackLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C2A82A2ADC897D00761AB3 /* DiagonalStackLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		67C2A8182ADB3CBB00761AB3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		67C2A81A2ADB3CCB00761AB3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		67C2A81D2ADB3CCB00761AB3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		67C2A82A2ADC897D00761AB3 /* DiagonalStackLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagonalStackLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				67C2A8162ADB3CBB00761AB3 /* fifthTaskApp.swift */,
+				67C2A82A2ADC897D00761AB3 /* DiagonalStackLayout.swift */,
 				67C2A8182ADB3CBB00761AB3 /* ContentView.swift */,
 				67C2A81A2ADB3CCB00761AB3 /* Assets.xcassets */,
 				67C2A81C2ADB3CCB00761AB3 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				67C2A8192ADB3CBB00761AB3 /* ContentView.swift in Sources */,
 				67C2A8172ADB3CBB00761AB3 /* fifthTaskApp.swift in Sources */,
+				67C2A82B2ADC897D00761AB3 /* DiagonalStackLayout.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
